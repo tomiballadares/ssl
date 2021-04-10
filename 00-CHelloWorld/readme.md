@@ -4,4 +4,4 @@
 • 176.184-5
 • Balladares
 • Tomas
-• Compilador: MINGW(GCC)
+• Compilador: MINGW(c18)
