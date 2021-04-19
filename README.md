@@ -4,8 +4,18 @@
 • 176.184-5
 • Balladares
 • Tomas
+
+
 • Compilador: MINGW(c18)
+
+
 •Procesos:
+
+
 Preprocesamiento-> compilación-> ensamblador -> linkeo
+
+
 •Entradas y resultados:
+
+
 Fuente -> Fuente preprocesado -> codigo assembler -> codigo objeto -> ejecutable.
