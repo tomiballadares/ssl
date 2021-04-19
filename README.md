@@ -8,4 +8,4 @@
 •Procesos:
 Preprocesamiento-> compilación-> ensamblador -> linkeo
 •Entradas y resultados:
-Fuente preproceso -> codigo assembler -> codigo objeto -> ejecutable.
+Fuente -> Fuente preproceso -> codigo assembler -> codigo objeto -> ejecutable.
