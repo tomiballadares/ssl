@@ -1,0 +1,6 @@
+ConversionTest.exe:	ConversionTest.o Conversion.o
+	gcc ConversionTest.o	Conversion.o	-o ConversionTest.exe
+Conversion.o: Conversion.c
+	gcc	-c	Conversion.c	-o Conversion.o
+ConversionTest.o: ConversionTest.c
+	gcc	-c ConversionTest.c	-o ConversionTest.o
